@@ -1,2 +1,2 @@
-# Codesoft
+# Codsoft
 LEVEL 1, TASK 3
